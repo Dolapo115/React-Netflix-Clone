@@ -209,7 +209,7 @@
     overflow-x: hidden;
     background-color: rgba(0, 0, 0, 1);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     /*padding-top: 350vh;*/
@@ -277,6 +277,7 @@
     flex-direction: column;
     position: relative;
     top: 0;
+    margin-top: 0;
 }
 
 .title-and-desc-container{
