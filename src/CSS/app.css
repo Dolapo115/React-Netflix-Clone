@@ -212,7 +212,7 @@
     justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
-    padding-top: 350vh;
+    /*padding-top: 350vh;*/
     position: relative;
     top: 0px;
 }
